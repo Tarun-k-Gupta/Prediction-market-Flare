@@ -61,13 +61,10 @@ flare-prediction-market/
 
 ## 🔮 Flare Integration
 
-### Current Implementation
 - Native FLR token for all transactions
 - Gas-efficient smart contracts optimized for Flare
 - Fast transaction finality leveraging Flare's Avalanche consensus
 
-### FDC Integration
-The architecture is designed to integrate **Flare Data Connector (FDC)** for:
 - **Automated Resolution**: Markets resolve via FDC attestations
 - **Oracle Data**: Real-world event verification
 - **Trustless Outcomes**: Eliminate manual resolution dependency
