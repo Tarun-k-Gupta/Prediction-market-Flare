@@ -65,7 +65,7 @@ flare-prediction-market/
 - Gas-efficient smart contracts optimized for Flare
 - Fast transaction finality leveraging Flare's Avalanche consensus
 
-### FDC Integration (Future Scope)
+### FDC Integration
 The architecture is designed to integrate **Flare Data Connector (FDC)** for:
 - **Automated Resolution**: Markets resolve via FDC attestations
 - **Oracle Data**: Real-world event verification
@@ -162,28 +162,6 @@ const CONFIG = {
 };
 ```
 
-## 📱 Usage Guide
-
-### For Users
-1. **Connect Wallet**: Click "Connect Wallet" button
-2. **Browse Markets**: View active prediction markets
-3. **Place Bets**: Enter amount and choose YES/NO
-4. **Track Position**: Monitor potential winnings
-5. **Claim Rewards**: Withdraw after market resolves
-
-### For Market Creators
-1. **Create Market**: Enter question and duration
-2. **Monitor Activity**: Track betting volume
-3. **Resolve Market**: Determine outcome when ended
-4. **Collect Fees**: Withdraw platform fees
-
-## 🤝 Why Flare?
-
-**Low Transaction Costs**: Minimal fees for frequent betting  
-**Fast Finality**: Quick bet confirmation and settlement  
-**FDC Potential**: Future oracle-based automation  
-**EVM Compatible**: Easy Solidity development  
-**Native Time Series**: Built-in FTSO for price feeds
 
 ## 📈 Technical Highlights
 
@@ -193,15 +171,7 @@ const CONFIG = {
 - **Event Listeners**: Real-time blockchain event tracking
 - **Gas Optimization**: Efficient contract design
 
-## 🏆 Built for Flare
 
-This project showcases Flare Network's capabilities for decentralized applications requiring:
-- Fast transaction speeds
-- Low operational costs
-- Future oracle integration via FDC
-- Robust smart contract infrastructure
-
-Perfect for hackathons, showcases, and production deployment on Flare's innovative blockchain ecosystem.
 
 ---
 
