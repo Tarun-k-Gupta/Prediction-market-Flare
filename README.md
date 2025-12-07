@@ -70,20 +70,6 @@ flare-prediction-market/
 - **Trustless Outcomes**: Eliminate manual resolution dependency
 - **Cross-chain Data**: Access external APIs for market settlement
 
-## 🎨 Features Showcase
-
-**Dynamic Pool Visualization**  
-Real-time YES/NO pool tracking with visual odds display
-
-**User Position Tracking**  
-Live potential winnings calculator before market resolution
-
-**Owner Dashboard**  
-Platform fee collection and market management interface
-
-**Responsive Design**  
-Modern glassmorphism UI optimized for desktop and mobile
-
 ## 🔒 Security Features
 
 - **Reentrancy Protection**: Safe withdrawal patterns
@@ -170,9 +156,3 @@ const CONFIG = {
 - **Gas Optimization**: Efficient contract design
 
 
-
----
-
-**Built with ❤️ for the Flare ecosystem**
-
-*Ready for FDC integration • Production-ready smart contracts • Community-driven*
