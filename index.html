@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flare Prediction Market</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ethers/6.7.0/ethers.umd.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <div class="sidebar" id="sidebar"></div>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <div id="marketsContainer">
+                <div class="empty-state">
+                    <div class="empty-state-icon">🎯</div>
+                    <div>Connect your wallet to view markets</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="config.js"></script>
+    <script src="utils.js"></script>
+    <script src="components/wallet.js"></script>
+    <script src="components/market.js"></script>
+    <script src="components/admin.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
