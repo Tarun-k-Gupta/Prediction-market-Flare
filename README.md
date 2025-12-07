@@ -1,5 +1,5 @@
 # Demo Video : https://youtu.be/ZfXyxlcWTnQ
-# 🔮 Flare Prediction Market
+# 🔮 Flare Prediction Market ( 0x3353E8557e63bd506d54AdDa7daB122aBc5a5b67 ) 
 
 A decentralized prediction market built on **Flare Network**, enabling users to create and bet on real-world events with transparent, smart contract-powered resolution.
 
